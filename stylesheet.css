@@ -1,0 +1,86 @@
+body{
+	text-align: justify;
+	background-color: #BBDEFB;
+}
+
+.jumbotron{
+
+	background-image: url(ice.jpg);
+	height: 500px;
+
+}
+
+.jumbotron h1{
+
+	font-size: 48px;
+	font-weight: bold;
+
+}
+
+.contact-info{
+
+	font-size: 10px;
+	padding-left: 30px; 
+
+}
+
+.container{
+
+ padding-left: 50px;
+ padding-right: 50px;
+ background-color: #BBDEFB;
+
+}
+
+.row {
+
+	padding-top: 10px;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-bottom: 10px;
+
+}
+
+.row h3{
+
+	font-weight: bold;
+	text-transform: uppercase;
+
+}
+
+#pic{
+
+	height: 200px;
+	width:auto;
+	padding-left: 60px;
+	padding-top: 20px;
+
+}
+
+#excelen{
+
+	padding-top: 60px;
+
+}
+#core{
+
+	padding-left: 60px;
+	padding-top: 60px;
+}
+
+.thumbnail{
+
+	height:100px;
+
+}
+
+h5{
+
+	font-style: bold;
+	font-size: 10px;
+	text-transform: uppercase;
+
+}
+
+
+

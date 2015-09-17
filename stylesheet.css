@@ -1,5 +1,4 @@
 body{
-	text-align: justify;
 	background-color: #BBDEFB;
 }
 
@@ -7,14 +6,21 @@ body{
 
 	background-image: url(ice.jpg);
 	height: 500px;
+	color: #9E9E9E;
 
 }
 
 .jumbotron h1{
 
-	font-size: 48px;
+	font-size: 60px;
 	font-weight: bold;
 
+}
+
+.jumbotron p{
+
+		font-size: 26px;
+		
 }
 
 .contact-info{
@@ -22,7 +28,12 @@ body{
 	font-size: 10px;
 	padding-left: 30px; 
 
+}
 
+a:hover{
+
+color:#90CAF9;
+	
 }
 
 .container{
@@ -69,9 +80,28 @@ body{
 	padding-top: 60px;
 }
 
+#asu{
+
+	padding-top: 15px;
+}
+
+#sbhse{
+
+	padding-top: 60px;
+}
+
 .thumbnail{
 
 	height:100px;
+	background: none;
+	border: 0;
+
+}
+
+#degree{
+
+font-size: 20px;
+font-style: bold;
 
 }
 

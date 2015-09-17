@@ -1,5 +1,6 @@
 body{
 	background-color: #BBDEFB;
+	font-size:16px;
 }
 
 .jumbotron{
@@ -19,7 +20,7 @@ body{
 
 .jumbotron p{
 
-		font-size: 26px;
+	font-size: 26px;
 		
 }
 
@@ -32,15 +33,15 @@ body{
 
 a:hover{
 
-color:#90CAF9;
+	color:#90CAF9;
 	
 }
 
 .container{
 
- padding-left: 50px;
- padding-right: 50px;
- background-color: #BBDEFB;
+ 	padding-left: 50px;
+ 	padding-right: 50px;
+ 	background-color: #BBDEFB;
 
 }
 
@@ -71,13 +72,13 @@ color:#90CAF9;
 
 #excelen{
 
-	padding-top: 60px;
+	padding-top: 100px;
 
 }
 #core{
 
 	padding-left: 60px;
-	padding-top: 60px;
+	padding-top: 100px;
 }
 
 #asu{
@@ -100,8 +101,8 @@ color:#90CAF9;
 
 #degree{
 
-font-size: 20px;
-font-style: bold;
+	font-size: 20px;
+	font-style: bold;
 
 }
 

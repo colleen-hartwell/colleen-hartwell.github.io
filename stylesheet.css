@@ -1,7 +1,9 @@
 body{
+
 	background-color: #BBDEFB;
 	font-size:16px;
 	font-family: 'Raleway', sans-serif;
+	
 }
 
 .jumbotron{
@@ -44,6 +46,7 @@ a:hover{
  	padding-right: 50px;
  	background-color: #BBDEFB;
 
+
 }
 
 .row {
@@ -52,6 +55,7 @@ a:hover{
 	padding-left: 50px;
 	padding-right: 50px;
 	padding-bottom: 10px;
+
 
 }
 
@@ -102,14 +106,19 @@ a:hover{
 
 #degree{
 
-	font-size: 20px;
-	font-style: bold;
+	font-size: 19px;
+	font-weight: bold;
 
+}
+
+h4{
+
+	font-weight: bold;
 }
 
 h5{
 
-	font-style: bold;
+	font-weight: bold;
 	font-size: 10px;
 	text-transform: uppercase;
 

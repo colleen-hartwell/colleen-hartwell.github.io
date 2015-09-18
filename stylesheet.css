@@ -94,7 +94,7 @@ a:hover{
 
 	padding-left: 60px;
 	padding-top: 100px;
-	
+
 }
 
 #asu{
@@ -120,6 +120,7 @@ a:hover{
 	font-size: 19px;
 	font-weight: bold;
 	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+	display: inline-block;
 
 }
 

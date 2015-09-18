@@ -1,6 +1,6 @@
 body{
 
-	background-color: #BBDEFB;
+	background-color: #B3E5FC;
 	font-size:16px;
 	
 }
@@ -21,7 +21,8 @@ body{
 
 	background-image: url(ice.jpg);
 	height: 500px;
-	color: #9E9E9E;
+	color: #4FC3F7
+;
 
 }
 
@@ -47,7 +48,8 @@ body{
 
 a:hover{
 
-	color:#90CAF9;
+	color:#B3E5FC
+;
 	
 }
 
@@ -55,7 +57,6 @@ a:hover{
 
  	padding-left: 50px;
  	padding-right: 50px;
- 	background-color: #BBDEFB;
 
 }
 
@@ -132,7 +133,7 @@ h4{
 h5{
 
 	font-weight: bold;
-	font-size: 10px;
+	font-size: 12px;
 	text-transform: uppercase;
 
 }
